@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  chlgksdbs98@naver.com
+  <img src="https://img.shields.io/badge/chlgksdbs98@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </p>
 
 
