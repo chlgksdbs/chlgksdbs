@@ -3,31 +3,39 @@
   
 <div align="center">
 
+<!--
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=220&section=header&text=Welcome&fontAlignY=40&fontSize=70&desc=chlgksdbs's%20GitHub&descAlign=65&descAlignY=55&descSize=20)
-
-  ---
-  ☁️SNS list☁️
-
-  <a href="https://www.facebook.com/profile.php?id=100013209942817" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/chlgksdbs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://blog.naver.com/chlgksdbs98" target="_blank"><img src="https://img.shields.io/badge/My Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <br/>
-
-
-  <br/>
-  📧Email📧<br/>chlgksdbs98@naver.com
-  <br/>
-
+-->
   
-  <br/>
   ⚒️Tech Stack⚒️
 
-  <br/><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+  <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
+
+  <br/>
+  <br/>
+  
+  📧Email📧
+  
+  <img src="https://img.shields.io/badge/chlgksdbs98@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">
+  
+  <br/>
+  <br/>
+  
+  ☁️SNS list☁️
+
+  <a href="https://velog.io/@chlgksdbs98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100013209942817" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/chlgksdbs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <br/>
 
   ---
   :100: Joon
