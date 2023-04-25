@@ -28,7 +28,7 @@
   <br/>
   
   ---
-  ⌨ PS
+  ⌨ Problem Solving
   <br/>
   
   [![Solved.ac
